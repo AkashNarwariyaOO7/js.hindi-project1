@@ -1,2 +1,3 @@
-# js.hindi-project1
-A code repo for javascript series at project1 
+# js.hindi-youtube
+A code repo for javascript series at chai aur code youtube channel
+
